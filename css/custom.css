@@ -1,0 +1,61 @@
+:root {
+  /* Background color */
+  --color-bg: #000000;
+
+  /* Header background color */
+  --color-head-bg: #000000;
+
+  /* Logotype */
+  --color-logotype-bg: #000000;
+  --color-text-logotype: #24fa08;
+  --font-logotype-size: 1rem;
+
+  /* Global menu */
+  --color-menu-bg: #000000;
+  /* Links */
+  --color-link-bg: #84ff00;
+  --color-link-hover: #ff0000;
+  --color-link-active: #44ff00;
+  --border-radius-links: 1px;
+
+  /* Headlines (size)*/
+  --font-h1-size: 1rem;
+  --font-h2-size: 1rem;
+  --font-h3-size: 1rem;
+
+  --headline2-size: 1rem;
+  --headline3-size: 1rem;
+  --font-sub1-size: 1rem;
+
+  /* Headlines (color) */
+  --color-headline-bg: #6fff00;
+
+  /* Tekst */
+  --color-text: #ff0000;
+  --color-text-inverted: #6fff00;
+
+  /* Andet tekst */
+  --followup-text-size: 1rem;
+
+  /*  Margins */
+  --margin-head-bottom: 5px;
+
+  /* Borders */
+  --border-radius: 5px;
+
+  /* Cards */
+  --color-card-bg: #6fff00;
+  --color-card-bg-inverted: #6fff00;
+  --color-cta-card-bg: #6fff00;
+  --color-cta-card-bg-inverted: #2a2d28;
+
+  /* Fonts & font weights*/
+  --font-family-sans: ui-sans-serif;
+  --font-weight-bold: 700;
+  --font-weight-medium: 500;
+  --font-weight-regular: 300;
+  --font-weight-light: 200;
+
+  /* Infographics background colors*/
+  --color-info-bg: #212020;
+}
